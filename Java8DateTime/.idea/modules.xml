@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aa_JavaUtilTimeAndFormat/Aa_JavaUtilTimeAndFormat.iml" filepath="$PROJECT_DIR$/Aa_JavaUtilTimeAndFormat/Aa_JavaUtilTimeAndFormat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ab_Java8TimeClass/Ab_Java8TimeClass.iml" filepath="$PROJECT_DIR$/Ab_Java8TimeClass/Ab_Java8TimeClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ac_Java8TimeMethod/Ac_Java8TimeMethod.iml" filepath="$PROJECT_DIR$/Ac_Java8TimeMethod/Ac_Java8TimeMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ad_Java8TimeTemporalAdjuster/Ad_Java8TimeTemporalAdjuster.iml" filepath="$PROJECT_DIR$/Ad_Java8TimeTemporalAdjuster/Ad_Java8TimeTemporalAdjuster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ae_Java8TimeConvert/Ae_Java8TimeConvert.iml" filepath="$PROJECT_DIR$/Ae_Java8TimeConvert/Ae_Java8TimeConvert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Af_Java8TimeFormatAndParse/Af_Java8TimeFormatAndParse.iml" filepath="$PROJECT_DIR$/Af_Java8TimeFormatAndParse/Af_Java8TimeFormatAndParse.iml" />
+    </modules>
+  </component>
+</project>
